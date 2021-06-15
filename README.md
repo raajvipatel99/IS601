@@ -29,14 +29,14 @@ Internet in a Nut Shell
 Get an insight about the various functionalities of Internet and the technologies that operate around it
 
 ## Website Main Menu (Nav bar)
-*[Home]
-*[About](AboutUs.md)
-*[Main Menu]
-*[Encryption and Public Keys](Encryption_and_public_keys.md)
-*[IP address and DNS](IP_address_and_DNS.md)
-*[Packet, routing and Reliability](Packet_routing_and_reliability.md)
-*[HTTP(S), TLS, SSL](HHTPS_SSL_TLS_DigitalCertificate.md)
-*[Data transmission Methodologies](Wired_and_wireless_data_transmission.md)
+[Home]\
+[About](AboutUs.md)\
+[Main Menu]\
+[Encryption and Public Keys](Encryption_and_public_keys.md)\
+[IP address and DNS](IP_address_and_DNS.md)\
+[Packet, routing and Reliability](Packet_routing_and_reliability.md)\
+[HTTP(S), TLS, SSL](HHTPS_SSL_TLS_DigitalCertificate.md)\
+[Data transmission Methodologies](Wired_and_wireless_data_transmission.md)\
 
 ## Page Layout
 Z Layout
