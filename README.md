@@ -29,7 +29,7 @@ Internet in a Nut Shell
 Get an insight about the various functionalities of Internet and the technologies that operate around it
 
 ## Website Main Menu (Nav bar)
-[Home]\
+[Home](README.md)\
 [About](AboutUs.md)\
 [Main Menu]\
 [Encryption and Public Keys](Encryption_and_public_keys.md)\
