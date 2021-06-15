@@ -42,7 +42,7 @@ Get an insight about the various functionalities of Internet and the technologie
 Z Layout
 
 ## Page Content
-(HomePageContent.md)
+[Home Page Content](HomePageContent.md)
 
 ## Page Image
 ![Internet](Images/bgimg1.jpg "Internet")
@@ -51,7 +51,7 @@ Z Layout
 ![Growth of internet](Images/sb_internet.png "Growth of internet")
 
 ## Sidebar Content
-(HomePagesbContent.md)
+[Sidebar Content] (HomePagesbContent.md)
 
 ## Footer
 Rajvi Patel\
