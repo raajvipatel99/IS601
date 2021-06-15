@@ -37,7 +37,7 @@ F layout
 [ID Sidebar](IDsbContent.md)
 
 ## Page Image
-![Types of IP address](/Images/ip_alt.JPG "Types of IP address")
+![Types of IP address](/Images/ip_alt.JPG "Types of IP address") \
 ![How DNS works](Images/dns.png "How DNS works")
 
 ## Footer
