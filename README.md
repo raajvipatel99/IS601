@@ -55,18 +55,18 @@ Z Layout
 (/Users/Preyasha/Desktop/IS/HomePagesbContent.md)
 
 ## Footer
-**Rajvi Patel**
-**323 Dr Martin Luther King Jr Blvd
+Rajvi Patel
+323 Dr Martin Luther King Jr Blvd
 Newark
-NJ 07102**
+NJ 07102
 <rp83@njit.edu>
 [Linkedin](http://linkedin.com/in/rajvi-patel-4403681b5)
 [Github](https://github.com/raajvipatel99)
 
-**Preyasha Patel**
-**323 Dr Martin Luther King Jr Blvd
+Preyasha Patel
+323 Dr Martin Luther King Jr Blvd
 Newark
-NJ 07102**
+NJ 07102
 <pp54@njit.edu>
 [Linkedin](http://linkedin.com/in/preyasha-patel-67356a122) 
 [Github](https://github.com/preyasha2810)
