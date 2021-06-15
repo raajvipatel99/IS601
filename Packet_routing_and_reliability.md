@@ -25,13 +25,13 @@ Packet, Routing and Reliability
 F layout
 
 ## Page Content
-(PRPageContent.md)
+[Page Content](PRPageContent.md)
 
 ## Sidebar Image
 ![Paul Baran](Images/sb_packet.jpg "Paul Baran")
 
 ## Sidebar Content
-(PRsbContent.md)
+[Sidebar Content](PRsbContent.md)
 
 ## Page Image
 ![Packet Switching Theory](Images/packet.png "Packet Switching Theory")
