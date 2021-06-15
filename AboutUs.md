@@ -18,8 +18,12 @@ We used Github and Git for version control and to collaborate on project and mer
 About the author\
 Photo\
 Major: Computer Science\
+Rajvi Patel\
+<rp83@njit.edu>\
 [Linkedin](http://linkedin.com/in/rajvi-patel-4403681b5)\
 [Github](https://github.com/raajvipatel99)\
+Preyasha Patel\
+<pp54@njit.edu>\
 [Linkedin](http://linkedin.com/in/preyasha-patel-67356a122)\
 [Github](https://github.com/preyasha2810)
 
