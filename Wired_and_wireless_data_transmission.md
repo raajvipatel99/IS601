@@ -27,13 +27,13 @@ Data Transmission methodologies
 F layout
 
 ## Page Content
-(WiredPageContent.md)
+[Page Content](WiredPageContent.md)
 
 ## Sidebar Image
 ![Robert Metcalfe](Images/sb_wire.jpg "Robert Metcalfe")
 
 ## Sidebar Content
-(WiredSbContent.md)
+[Sidebar Content](WiredSbContent.md)
 
 ## Page Image
 ![Fibre Optic Transmission](Images/fibre.jpg "Fibre Optic Transmission") \
