@@ -33,7 +33,7 @@ Get an insight about the various functionalities of Internet and the technologie
 [About]
 (AboutUs.md)
 [Main Menu]
-[Encryption and Public Keys](Encryption_and_publickeys.md)
+[Encryption and Public Keys](Encryption_and_public_keys.md)
 [IP address and DNS](IP_address_and_DNS.md)
 [Packet, routing and Reliability](Packet_routing_and_reliability.md)
 [HTTP(S), TLS, SSL](HHTPS_SSL_TLS_DigitalCertificate.md)
