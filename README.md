@@ -51,7 +51,7 @@ Z Layout
 ![Growth of internet](Images/sb_internet.png "Growth of internet")
 
 ## Sidebar Content
-[Side bar Content] (HomePagesbContent.md)
+[Side bar Content](HomePagesbContent.md)
 
 ## Footer
 Rajvi Patel\
