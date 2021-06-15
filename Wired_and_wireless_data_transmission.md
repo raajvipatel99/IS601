@@ -36,8 +36,8 @@ F layout
 (WiredSbContent.md)
 
 ## Page Image
-![Fibre Optic Transmission](Images/fibre.jpg "Fibre Optic Transmission")
-![Wired Data Transmission](Images/wire1.jpg "Wired Data Transmission")
+![Fibre Optic Transmission](Images/fibre.jpg "Fibre Optic Transmission") \
+![Wired Data Transmission](Images/wire1.JPG "Wired Data Transmission")
 
 
 ## Footer
