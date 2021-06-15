@@ -8,35 +8,37 @@
 [HTTP(S), TLS, SSL](HHTPS_SSL_TLS_DigitalCertificate.md)\
 [Data transmission Methodologies](Wired_and_wireless_data_transmission.md)
 
-
 ## Page Title
-Encryption and Public Keys
+Ip Address and DNS
 
 ## Meta Description
-**Encryption has emerged as a very crucial and formal method for the protection of data.In order to be effective, strong key management is compulsory otherwise our data is always at a risk**
+**The dns acts as contact providing platform for internet whereas web browsers communicate through Ip addresses. Each device has their own unique address which is used by other**
 
 ## Keywords
-- Encryption ---> codification
-- Decyrption ---> Decodification
-- The caeser shift
-- Data encryption standard
-- Secure messaging
-- Asymmetric Encryption
+- DNS spoofing
+- Host name configuration
+- Numerical label
+- Standard communication method
+- IP components
+- DNS server zones
+- Types of IP address
+- How DNS works
 
 ## Page Layout
 F layout
 
 ## Page Content
-[EP Page Content](EPPageContent.md)
+[ID Page Content](IDPageContent.md)
 
 ## Sidebar Image
-![Whitfield Diffie and Martin Hellman](Images/sb_encryption.jpg "Whitfield Diffie and Martin Hellman")
+![Robert Kahn and Vint Cerf](Images/sb_ip.JPG "Robert Kahn and Vint Cerf")
 
 ## Sidebar Content
-[EP Sidebar](EPsbContent.md)
+[ID Sidebar](IDsbContent.md)
 
 ## Page Image
-![Asymmetric Encryption](Images/encryption.png "Asymmetric Encryption")
+![Types of IP address](/Images/ip_alt.JPG "Types of IP address") \
+![How DNS works](Images/dns.png "How DNS works")
 
 ## Footer
 Rajvi Patel\

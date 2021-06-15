@@ -13,4 +13,4 @@ There are 2 types of keys:\
 Symmetric Key where the sender and the receiver share a same key. Meaning there is only one key both to unlock and lock the message.\
 Another type is an asymmetric key where you need a  public key to encrypt data and a private key to decrypt data.\
 Public key as the name suggests, is shared with everyone while private key is not shared.\
-Public key cryptography is the foundation of all secure messaging on open internet.\
+Public key cryptography is the foundation of all secure messaging on open internet.
