@@ -1,5 +1,5 @@
 ## Menu Link
-[Home] (/Users/Preyasha/Desktop/IS/AboutUs.md) 
+[Home] (AboutUs.md) 
 
 ## Page Title
 Encryption and Public Keys
@@ -19,26 +19,32 @@ Encryption and Public Keys
 F layout
 
 ## Page Content
-(/Users/Preyasha/Desktop/IS/EPPageContent.md)
+(EPPageContent.md)
 
 ## Sidebar Image
-![Whitfield Diffie and Martin Hellman](/Users/Preyasha/Desktop/Images/sb_encryption.jpg "Whitfield Diffie and Martin Hellman")
+![Whitfield Diffie and Martin Hellman](Images/sb_encryption.jpg "Whitfield Diffie and Martin Hellman")
 
 ## Sidebar Content
-(/Users/Preyasha/Desktop/IS/EPsbContent.md)
+(EPsbContent.md)
 
 ## Page Image
-![Asymmetric Encryption](/Users/Preyasha/Desktop/Images/encryption.png "Asymmetric Encryption")
+![Asymmetric Encryption](Images/encryption.png "Asymmetric Encryption")
 
 ## Footer
 **Rajvi Patel**
 **323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102**
-[Email] <rp83@njit.edu>
-[Linkedin](http://linkedin.com/in/rajvi-patel-4403681b5)
-[Github](https://github.com/raajvipatel99)
+[Email] 
+<rp83@njit.edu>
+[Linkedin]
+(http://linkedin.com/in/rajvi-patel-4403681b5)
+[Github]
+(https://github.com/raajvipatel99)
 
 **Preyasha Patel**
 **323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102**
-[Email] <pp54@njit.edu>
-[Linkedin](http://linkedin.com/in/preyasha-patel-67356a122) 
-[Github](https://github.com/preyasha2810)
+[Email]
+<pp54@njit.edu>
+[Linkedin]
+(http://linkedin.com/in/preyasha-patel-67356a122) 
+[Github]
+(https://github.com/preyasha2810)
