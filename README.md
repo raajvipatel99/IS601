@@ -1,7 +1,7 @@
 ## General Info
 
 ### Author names 
-Raajvi Patel
+Raajvi Patel\
 Preyasha Patel
 
 ### The concept of the website
@@ -51,7 +51,7 @@ Z Layout
 ![Growth of internet](Images/sb_internet.png "Growth of internet")
 
 ## Sidebar Content
-[Sidebar Content] (HomePagesbContent.md)
+[Side bar Content] (HomePagesbContent.md)
 
 ## Footer
 Rajvi Patel\
