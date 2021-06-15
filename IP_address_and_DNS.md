@@ -31,13 +31,13 @@ F layout
 [ID Page Content](IDPageContent.md)
 
 ## Sidebar Image
-![Robert Kahn and Vint Cerf](Images/sb_ip.jpg "Robert Kahn and Vint Cerf")
+![Robert Kahn and Vint Cerf!](Images/sb_ip.jpg "Robert Kahn and Vint Cerf")
 
 ## Sidebar Content
 [ID Sidebar](IDsbContent.md)
 
 ## Page Image
-![Types of IP address](/Images/ip_alt.jpg "Types of IP address")
+![Types of IP address!](/Images/ip_alt.jpg "Types of IP address")
 ![How DNS works](Images/dns.png "How DNS works")
 
 ## Footer
