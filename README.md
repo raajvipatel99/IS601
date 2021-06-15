@@ -33,7 +33,7 @@ Get an insight about the various functionalities of Internet and the technologie
 [About]
 (AboutUs.md)
 [Menu]
-(Encryption_and_publickeys.md)
+[Encryption and Public Keys](Encryption_and_publickeys.md)
 (IP_address_and_DNS.md)
 (Packet_routing_and_reliability.md)
 (HHTPS_SSL_TLS_DigitalCertificate.md)
@@ -57,12 +57,12 @@ Z Layout
 ## Footer
 **Rajvi Patel**
 **323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102**
-[Email]<rp83@njit.edu>
+[Email] <rp83@njit.edu>
 [Linkedin](http://linkedin.com/in/rajvi-patel-4403681b5)
 [Github](https://github.com/raajvipatel99)
 
 **Preyasha Patel**
 **323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102**
-[Email]<pp54@njit.edu>
+[Email] <pp54@njit.edu>
 [Linkedin](http://linkedin.com/in/preyasha-patel-67356a122) 
 [Github](https://github.com/preyasha2810)
