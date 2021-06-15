@@ -27,13 +27,13 @@ Encryption and Public Keys
 F layout
 
 ## Page Content
-(EPPageContent.md)
+[EP Page Content](EPPageContent.md)
 
 ## Sidebar Image
 ![Whitfield Diffie and Martin Hellman](Images/sb_encryption.jpg "Whitfield Diffie and Martin Hellman")
 
 ## Sidebar Content
-(EPsbContent.md)
+[EP Sidebar](EPsbContent.md)
 
 ## Page Image
 ![Asymmetric Encryption](Images/encryption.png "Asymmetric Encryption")
