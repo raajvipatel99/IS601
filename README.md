@@ -59,7 +59,7 @@ Z Layout
 **323 Dr Martin Luther King Jr Blvd
 Newark
 NJ 07102**
-[Email]<rp83@njit.edu>
+<rp83@njit.edu>
 [Linkedin](http://linkedin.com/in/rajvi-patel-4403681b5)
 [Github](https://github.com/raajvipatel99)
 
@@ -67,6 +67,6 @@ NJ 07102**
 **323 Dr Martin Luther King Jr Blvd
 Newark
 NJ 07102**
-[Email]<pp54@njit.edu>
+<pp54@njit.edu>
 [Linkedin](http://linkedin.com/in/preyasha-patel-67356a122) 
 [Github](https://github.com/preyasha2810)
