@@ -68,5 +68,5 @@ Preyasha Patel\
 Newark\
 NJ 07102\
 <pp54@njit.edu>\
-[Linkedin](http://linkedin.com/in/preyasha-patel-67356a122)\ 
+[Linkedin](http://linkedin.com/in/preyasha-patel-67356a122)\
 [Github](https://github.com/preyasha2810)
