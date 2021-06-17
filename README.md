@@ -45,10 +45,10 @@ Z Layout
 [Home Page Content](HomePageContent.md)
 
 ## Page Image
-![Internet](Images/bgimg1.jpg =250x250 "Internet")
+![Internet](Images/bgimg1.jpg "Internet" =250x250)
 
 ## Sidebar Image
-![Growth of internet](Images/sb_internet.png =250x250 "Growth of internet")
+![Growth of internet](Images/sb_internet.png "Growth of internet" =250x250)
 
 ## Sidebar Content
 [Side bar Content](HomePagesbContent.md)
