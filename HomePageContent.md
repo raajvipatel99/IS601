@@ -1,5 +1,4 @@
-- Internet in a Nut Shell
- ## What is Internet?
+## What is Internet?
 - A global computer network providing a diversity of information and communication facilities, consisting of interconnected networks using standardized communication protocols
 - Made up of large number of independently created networks that are fully distributed, has no central control and focuses on end-to-end connectivity.
 - How, When and Where was it created?
