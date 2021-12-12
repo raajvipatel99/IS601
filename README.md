@@ -35,7 +35,7 @@ Get an insight about the various functionalities of Internet and the technologie
 [Encryption and Public Keys](Encryption_and_public_keys.md)\
 [IP address and DNS](IP_address_and_DNS.md)\
 [Packet, routing and Reliability](Packet_routing_and_reliability.md)\
-[HTTP(S), TLS, SSL](HHTPS_SSL_TLS_DigitalCertificate.md)\
+[HTTP(S), TLS, SSL](HTTPS_SSL_TLS_DigitalCertificate.md)\
 [Data transmission Methodologies](Wired_and_wireless_data_transmission.md)
 
 ## Page Layout
